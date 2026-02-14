@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/doom-dark-ages-cheat-logo.png" alt="DOOM: The Dark Ages Cheat Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=DOOM+THE+DARK+AGES+CHEAT;OP+SILENT+AIMBOT+2026;ESP+WALLHACK+NO+RECOIL;INFINITE+AMMO+HEALTH;SPEED+HACK;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
